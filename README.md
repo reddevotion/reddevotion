@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Valeriy
 
-<!--
-**reddevotion/reddevotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer focused on building clean, interactive, and practical web interfaces.
 
-Here are some ideas to get you started:
+I enjoy working with React, TypeScript, and modern UI tools to turn ideas into polished user experiences. My goal is to create interfaces that feel simple to use, visually clear, and technically solid.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- React
+- TypeScript
+- Java
+- Tailwind CSS
+- Next.js
+- UI animations and component-driven development
+
+## About me
+
+- I like building projects with a strong focus on UX and frontend structure.
+- I care about clean code, maintainability, and responsive design.
+- I’m currently growing as a frontend developer and looking for opportunities to learn and contribute.
+
+## Contact
+
+- Email: valerysendl@gmail.com
+- Telegram: @overture666
