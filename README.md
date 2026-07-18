@@ -1,25 +1,23 @@
 # Hi, I'm Valeriy
 
-Frontend developer focused on building clean, interactive, and practical web interfaces.
-
-I enjoy working with React, TypeScript, and modern UI tools to turn ideas into polished user experiences. My goal is to create interfaces that feel simple to use, visually clear, and technically solid.
+I am a **Full-Stack Developer** focused on building clean, interactive, and practical web interfaces.
+I enjoy bridging the gap between clean, interactive user interfaces and robust server-side architecture. My goal is to deliver seamless end-to-end features, from complex database design to optimized production builds.
 
 ## What I work with
 
-- React
-- TypeScript
-- Java
-- Tailwind CSS
-- Next.js
-- UI animations and component-driven development
+- React 19, TypeScript, Next.js, Vite
+- NestJS, Node.js, Java
+- Docker, Nginx
+- MongoDB, PostgreSQL
 
 ## About me
 
-- I like building projects with a strong focus on UX and frontend structure.
-- I care about clean code, maintainability, and responsive design.
-- I’m currently growing as a frontend developer and looking for opportunities to learn and contribute.
+- I take end-to-end responsibility for features, comfortably shifting between designing database schemas, writing secure REST APIs, and building responsive UIs.
+- I care deeply about clean code, scalable application architecture, and systematic refactoring to ensure codebases remain maintainable as they grow.
+- I balance technical efficiency with user experience, ensuring applications are optimized for speed, responsive across devices, and intuitive to interact with.
+- I focus on delivering functional, production-ready solutions and adapting efficiently to complex business logic and new technical challenges.
 
 ## Contact
 
-- Email: valerysendl@gmail.com
-- Telegram: @overture666
+- **Email**: [valerysendl@gmail.com](mailto:valerysendl@gmail.com)
+- **Telegram**: [@overture666](https://t.me)
