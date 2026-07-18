@@ -20,4 +20,4 @@ I enjoy bridging the gap between clean, interactive user interfaces and robust s
 ## Contact
 
 - **Email**: valerysendl@gmail.com
-- **Telegram**: [@overture666](https://t.me/overture666)
+- **Telegram**: <a href="https://t.me/overture666" target="_blank" rel="noopener noreferrer">@overture666</a>
