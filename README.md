@@ -5,7 +5,7 @@ I enjoy bridging the gap between clean, interactive user interfaces and robust s
 
 ## What I work with
 
-- React 19, TypeScript, Next.js, Vite
+- React 19, React Native, TypeScript, Next.js, Vite
 - NestJS, Node.js, Java
 - Docker, Nginx
 - MongoDB, PostgreSQL
